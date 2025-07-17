@@ -1,0 +1,9 @@
+{
+  "name": "Your PIXI App",
+  "short_name": "PixiApp",
+  "display": "fullscreen",
+  "start_url": "/",
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "icons": []
+}

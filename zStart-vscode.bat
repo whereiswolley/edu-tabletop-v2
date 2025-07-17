@@ -1,0 +1,1 @@
+Start "" "C:\Users\wolley\AppData\Local\Programs\Microsoft VS Code\Code.exe" "%cd%\."
